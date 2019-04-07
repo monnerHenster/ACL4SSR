@@ -7549,7 +7549,8 @@
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
 (^|\.)xn--i2ru8q2qg\.com$
-(^|\.)hiragara\.jp$
+(^|\.)hiragana\.jp$
+(^|\.)ip\.jp$
 
 # 国外域名关键字
 (^|\.)\w*1e100\w*\.\w*$
