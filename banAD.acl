@@ -59,6 +59,9 @@
 (^|\.)ads\d{0,3}\..*$
 (^|\.)tracking\..*$
 
+# 自定义
+(^|\.)xiwnu.cn$
+
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
 (^|\.)(analytics|img1|img2|mimg|push)\.126\.net$
