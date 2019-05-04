@@ -60,6 +60,7 @@
 (^|\.)ads\d{0,3}\..*$
 (^|\.)tracking\..*$
 (^|\.)xxqysj\.com$
+(^|\.)xxqysj\.cn$
 
 # 自定义
 (^|\.)xiwnu.cn$
